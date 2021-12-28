@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Claytoo
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning  JS, C#, and DB's
-- 💞️ I’m looking to collaborate on Game Project
-- 📫 How to reach me : DM Discord Claytoo#0001
+someone who has hobby in MMO Game Development (C++ & C#)
+
+currently being a front-end web dev, although sometimes do full stack
 
 <!---
 Claytoo/Claytoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
