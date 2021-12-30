@@ -1,6 +1,6 @@
-someone who has a hobby in MMO Game Development (C++ & C#)
+✨someone who has a hobby in MMO Game Development (C++ & C#)
 
-currently being a front-end web dev, although sometimes do a full stack
+✨currently being a front-end web dev, although sometimes do a full stack
 
 <!---
 Claytoo/Claytoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
