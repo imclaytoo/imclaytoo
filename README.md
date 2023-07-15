@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Claytoo/](https://github.com/Claytoo/)
 
-- 📝 I regularly write articles on [https://claytoo.cerenitystudio/](https://claytoo.cerenitystudio/)
+- 📝 I regularly write articles on [https://claytoo.cerenitystudio.com/](https://claytoo.cerenitystudio.com/)
 
 - 📫 How to reach me **claytoo@cerenitystudio.com**
 
