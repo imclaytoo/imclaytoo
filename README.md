@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Claytoo/](https://github.com/Claytoo/)
 
-- 📝 I regularly write articles on [https://sfcerenity.org/news/](https://sfcerenity.org/news/)
+- 📝 I regularly write articles on [https://claytoo.cerenitystudio/](https://claytoo.cerenitystudio/)
 
-- 📫 How to reach me **claytoo@sfcerenity.org**
+- 📫 How to reach me **claytoo@cerenitystudio.com**
 
 - ⚡ Fun fact **I really love cats**
 
