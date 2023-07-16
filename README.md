@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claytoo" alt="claytoo" /></a> </p>
 
-- 🔭 I’m currently working on [SurvivalProject2](https://github.com/Claytoo/SurvivalProject2)
+- 🔭 I’m currently working on [CerenityStudio Prototype]([https://github.com/Claytoo/SurvivalProject2](https://github.com/CerenityStudio))
 
-- 🌱 I’m currently learning **MMO Game Development**
+- 🌱 I’m currently learning **MMO Game Development/Online RPG Game**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Claytoo/](https://github.com/Claytoo/)
+- 👨‍💻 All of my projects are available at [Itch.io](https://cerenitystudio.itch.io/)
 
 - 📝 I regularly write articles on [https://claytoo.cerenitystudio.com/](https://claytoo.cerenitystudio.com/)
 
