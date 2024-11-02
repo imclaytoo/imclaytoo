@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **MMO Game Development/Online RPG Game**
 
-- 👨‍💻 All of my projects are available at [Itch.io](https://cerenitystudio.itch.io/)
+- 👨‍💻 All of my projects are available at [Itch.io](https://imclaytoo.itch.io/)
 
-- 📝 I regularly write articles on [https://claytoo.cerenitystudio.com/](https://claytoo.cerenitystudio.com/)
-
-- 📫 How to reach me **claytoo@cerenitystudio.com**
+- 📫 How to reach me **claytoo.serophina@gmail.com**
 
 - ⚡ Fun fact **I really love cats**
 
